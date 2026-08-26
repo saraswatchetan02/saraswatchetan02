@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/saraswatchetan02">
-    <img src="https://img.shields.io/badge/GitHub-saraswatchetan02-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-saraswatchetan90--jpg-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
 
@@ -43,9 +43,9 @@ class Chetan {
 
 | Category | Tools |
 |---|---|
-| **Languages** | Java |
+| **Languages** | Java,C |
 | **Frontend** | HTML5, CSS3 |
-| **Database** | MySQL |
+| **Database** | MySQL  |
 | **Tools** | Git, GitHub, VS Code |
 
 ---
@@ -69,23 +69,23 @@ class Chetan {
   </tr>
 </table>
 
-> 📌 *Add your repo links here once ready, e.g.* `[Java & DSA](https://github.com/saraswatchetan90-jpg/your-repo)`
+> 📌 *Add your repo links here once ready, e.g.* `[Java & DSA](https://github.com/saraswatchetan02/your-repo)`
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saraswatchetan90-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswatchetan90-jpg&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saraswatchetan02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswatchetan02&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraswatchetan90-jpg&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraswatchetan02&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraswatchetan90-jpg&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraswatchetan02&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -105,7 +105,7 @@ class Chetan {
 ### 📫 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/saraswatchetan90-jpg">
+  <a href="https://github.com/saraswatchetan02">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
   </a>
   <!-- Add LinkedIn, Twitter/X, email, etc. as you set them up, e.g.:
@@ -119,5 +119,5 @@ class Chetan {
 <p align="center"><b>Keep Learning • Keep Building • Keep Improving 🚀</b></p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saraswatchetan90-jpg&style=flat-square&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=saraswatchetan02&style=flat-square&color=blue" />
 </p>
