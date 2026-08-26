@@ -43,10 +43,10 @@ class Chetan {
 
 | Category | Tools |
 |---|---|
-| **Languages** | Java, JavaScript (learning) |
+| **Languages** | Java |
 | **Frontend** | HTML5, CSS3 |
-| **Database** | MySQL, MongoDB (exploring) |
-| **Tools** | Git, GitHub, VS Code, Postman |
+| **Database** | MySQL |
+| **Tools** | Git, GitHub, VS Code |
 
 ---
 
