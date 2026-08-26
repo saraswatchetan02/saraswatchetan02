@@ -1,90 +1,123 @@
-# 👋 Hi, I'm Chetan Saraswat
+<h1 align="center">Hi, I'm Chetan Saraswat 👋</h1>
 
-🎓 B.Tech Student | 💻 Java & Full Stack Developer in Progress
+<h3 align="center">Turning coffee, curiosity, and stack traces into working software ☕💻</h3>
 
-I’m a passionate computer science student who enjoys solving problems, learning new technologies, and building projects.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=B.Tech+Student+%7C+CS+Undergrad;Java+%26+DSA+Enthusiast;Full+Stack+Developer+in+Progress;Currently+solving+LeetCode+daily" alt="Typing SVG" />
+</p>
 
-- 🌱 Currently learning **Full Stack Development**
-- 💻 Practicing **Java & DSA**
-- 🧩 Solving programming problems on **LeetCode**
-- 🚀 Building projects to improve my development skills
-- 🎯 Goal: Become a skilled **Full Stack Developer**
-
----
-
-## 🛠️ Tech Stack
-
-### Programming
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <a href="https://github.com/saraswatchetan90-jpg">
+    <img src="https://img.shields.io/badge/GitHub-saraswatchetan90--jpg-181717?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-## 💻 What I'm Working On
+### 🧭 About Me
 
-- 📚 Improving my **Java & DSA** skills
-- 🌐 Learning **Full Stack Web Development**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🛠️ Building frontend and full-stack projects
-- 📈 Improving my problem-solving skills
+I'm a Computer Science undergrad who likes taking things apart to see how they work — code included. Most days you'll find me deep in a DSA problem, wiring up a new project, or chasing down a bug that "shouldn't be happening."
 
----
+```txt
+class Chetan {
+    String role      = "B.Tech Student";
+    String[] focus   = {"Java", "DSA", "Full Stack Development"};
+    String goal      = "Become internship-ready in 2026";
+    boolean learning = true;   // always
+}
+```
 
-## 🚀 Featured Projects
-
-### 🔹 Java & DSA
-Collection of Java programming and DSA problems that I'm solving while learning.
-
-### 🔹 HTML & CSS Projects
-Frontend practice projects created while learning web development.
-
-### 🔹 Personal Portfolio
-My personal portfolio website showcasing my skills and projects.
+- 🌱 **Currently learning:** Full Stack Web Development
+- 💻 **Practicing:** Java & Data Structures/Algorithms
+- 🧩 **Grinding:** LeetCode, one problem at a time
+- 🚀 **Building:** Projects to sharpen real-world dev skills
+- 🎯 **North Star:** Becoming a skilled, job-ready Full Stack Developer
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tech Stack
 
-![Chetan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saraswatchetan90-jpg&show_icons=true&theme=tokyonight)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,html,css,js,react,mysql,mongodb,git,github,vscode,postman&theme=dark" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saraswatchetan90-jpg&layout=compact&theme=tokyonight)
+| Category | Tools |
+|---|---|
+| **Languages** | Java, JavaScript (learning) |
+| **Frontend** | HTML5, CSS3 |
+| **Database** | MySQL, MongoDB (exploring) |
+| **Tools** | Git, GitHub, VS Code, Postman |
 
 ---
 
-## 🔥 Contribution Streak
+### 🚀 Featured Projects
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=saraswatchetan90-jpg&theme=tokyonight)](https://git.io/streak-stats)
+<table>
+  <tr>
+    <td width="33%">
+      <h4>🔹 Java & DSA</h4>
+      A growing collection of Java programs and DSA problem solutions from my learning journey.
+    </td>
+    <td width="33%">
+      <h4>🔹 HTML & CSS Projects</h4>
+      Frontend practice builds created while learning the fundamentals of web design.
+    </td>
+    <td width="33%">
+      <h4>🔹 Personal Portfolio</h4>
+      My personal website — a showcase of my skills, projects, and journey so far.
+    </td>
+  </tr>
+</table>
+
+> 📌 *Add your repo links here once ready, e.g.* `[Java & DSA](https://github.com/saraswatchetan90-jpg/your-repo)`
 
 ---
 
-## 🎯 2026 Goals
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saraswatchetan90-jpg&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saraswatchetan90-jpg&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saraswatchetan90-jpg&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saraswatchetan90-jpg&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 🎯 2026 Roadmap
 
 - [ ] Strengthen Java fundamentals
-- [ ] Solve more DSA problems
-- [ ] Learn JavaScript
-- [ ] Learn backend development
-- [ ] Build full-stack projects
-- [ ] Improve my GitHub portfolio
+- [ ] Solve 300+ DSA problems
+- [ ] Get comfortable with JavaScript
+- [ ] Learn backend development (Node/Express or Spring Boot)
+- [ ] Ship 3+ full-stack projects
+- [ ] Level up my GitHub portfolio
 - [ ] Become internship-ready
 
 ---
 
-## 📫 Connect With Me
+### 📫 Let's Connect
 
-💻 GitHub: [@saraswatchetan90-jpg](https://github.com/saraswatchetan90-jpg)
+<p align="left">
+  <a href="https://github.com/saraswatchetan90-jpg">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github" />
+  </a>
+  <!-- Add LinkedIn, Twitter/X, email, etc. as you set them up, e.g.:
+  <a href="https://linkedin.com/in/your-handle">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  -->
+</p>
 
----
+<p align="center">⭐ Thanks for stopping by — always happy to connect and collaborate!</p>
+<p align="center"><b>Keep Learning • Keep Building • Keep Improving 🚀</b></p>
 
-⭐ Thanks for visiting my profile!
-
-**Keep Learning • Keep Building • Keep Improving 🚀**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saraswatchetan90-jpg&style=flat-square&color=blue" />
+</p>
