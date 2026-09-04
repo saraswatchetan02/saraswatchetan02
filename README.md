@@ -69,7 +69,7 @@ class Chetan {
   </tr>
 </table>
 
-> 📌 *Add your repo links here once ready, e.g.* `[Java & DSA](https://github.com/saraswatchetan02/your-repo)`
+[Java & DSA](https://github.com/saraswatchetan02/leetcode-java-solutions)`
 
 ---
 
