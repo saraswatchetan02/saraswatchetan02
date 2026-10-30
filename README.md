@@ -16,7 +16,7 @@
 
 ### 🧭 About Me
 
-I'm a Computer Science undergrad who likes taking things apart to see how they work — code included. Most days you'll find me deep in a DSA problem, wiring up a new project, or chasing down a bug that "shouldn't be happening."
+I'm a Computer Science undergraduate who likes taking things apart to see how they work — code included. Most days you'll find me deep in a DSA problem, wiring up a new project, or chasing down a bug that "shouldn't be happening."
 
 ```txt
 class Chetan {
@@ -43,8 +43,8 @@ class Chetan {
 
 | Category | Tools |
 |---|---|
-| **Languages** | Java,C |
-| **Frontend** | HTML5, CSS3 |
+| **Languages** | Java |
+| **Frontend** | HTML5, CSS3, Javascript |
 | **Database** | MySQL  |
 | **Tools** | Git, GitHub, VS Code |
 
